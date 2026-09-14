@@ -1,0 +1,1 @@
+-- 01_data_quality.sql (placeholder, Fase 0 concluída antes de escrever isso)

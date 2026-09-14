@@ -1,0 +1,15 @@
+duckdb
+pandas
+polars
+pyarrow
+sentence-transformers
+bertopic
+hdbscan
+faiss-cpu
+lightgbm
+xgboost
+scikit-learn
+scipy
+plotly
+streamlit
+pytrends

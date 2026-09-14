@@ -1,0 +1,1 @@
+-- 05_consumer_needs.sql (placeholder, Fase 0 concluída antes de escrever isso)

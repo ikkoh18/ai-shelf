@@ -1,0 +1,1 @@
+-- 04_brands.sql (placeholder, Fase 0 concluída antes de escrever isso)

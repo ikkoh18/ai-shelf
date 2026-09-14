@@ -1,0 +1,18 @@
+# Dados brutos e processados — grandes demais pro GitHub
+data/raw/
+data/processed/
+data/embeddings/
+
+# Banco DuckDB (arquivo local, regenerável rodando os SQLs de novo)
+*.duckdb
+*.duckdb.wal
+
+# Ambiente virtual Python
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Configurações locais do VSCode (opcional, evita conflito entre SOs)
+.vscode/
